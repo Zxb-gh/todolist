@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+html {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+  box-sizing: border-box;
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  background: #ffc600;
+}
+.container {
+  padding: 20px;
+  max-width: 350px;
+  box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.1);
+  background: #fff;
+}
+.container .title {
+  text-align: center;
+  margin: 10px 0;
+  color: #aaa;
+  font-weight: 200;
+}
+.list-mt-20 {
+  margin-top: 20px;
+}
+.filter-ml-20 {
+  margin-left: 20px;
+}
+.todo-line {
+  text-decoration: line-through;
+}
+.add-button {
+  margin-left: 10px;
+}
+.add-text {
+  font-size: 17px;
+}
