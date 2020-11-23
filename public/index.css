@@ -39,3 +39,6 @@ html {
 .add-text {
   font-size: 17px;
 }
+.del-button {
+  margin-left: 10px;
+}

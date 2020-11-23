@@ -1,7 +1,7 @@
 <template>
     <div :class="item.done?'todo-line':''" @click="changeStatus" v-if="show(item)">
         <span>{{item.text}}</span>
-        <button @click="del">删除</button>
+        <button class="del-button" @click="del">删除</button>
     </div>
 </template>
 <script>
