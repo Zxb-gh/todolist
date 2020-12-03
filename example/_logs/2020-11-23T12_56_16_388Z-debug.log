@@ -1,0 +1,15 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/Users/zo/example/bin/npm', 'run', 'serve' ]
+2 info using npm@6.14.8
+3 info using node@v14.15.0
+4 verbose run-script [ 'preserve', 'serve', 'postserve' ]
+5 info lifecycle todolst_es6@0.1.0~preserve: todolst_es6@0.1.0
+6 info lifecycle todolst_es6@0.1.0~serve: todolst_es6@0.1.0
+7 verbose lifecycle todolst_es6@0.1.0~serve: unsafe-perm in lifecycle true
+8 verbose lifecycle todolst_es6@0.1.0~serve: PATH: /Users/zo/example/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/Users/zo/vue/todolist/node_modules/.bin:/Users/zo/maven/apache-maven-3.6.3/bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/usr/local/bin:/usr/local/sbin:~/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/Library/Apple/usr/bin:/Users/zo/maven/apache-maven-3.6.3/bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/usr/local/sbin:~/bin:/Library/ZooKeeper/bin:/platform-tools:/tools:/usr/local/mysql/bin:/usr/local/mongodb-macos-x86_64-4.2.3/bin:/Users/zo/example/bin:/Library/ZooKeeper/bin:::/platform-tools:/tools::/bin:/Users/zo/Library/Tomcat/apache-tomcat-8.5.57/bin:/usr/local/mysql/bin:/usr/local/mongodb-macos-x86_64-4.2.3/bin:/Library/ZooKeeper/bin:/Users/zo/example/bin
+9 verbose lifecycle todolst_es6@0.1.0~serve: CWD: /Users/zo/vue/todolist
+10 silly lifecycle todolst_es6@0.1.0~serve: Args: [ '-c', 'vue-cli-service serve' ]
+11 timing npm Completed in 882966ms
+12 error cb() never called!
+13 error This is an error with npm itself. Please report this error at:
+14 error <https://npm.community>
